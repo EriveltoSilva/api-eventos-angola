@@ -150,4 +150,4 @@ Contributions are welcome! To contribute to this project:
 
 <h2 id="license">📫 License</h2>
 
-This project is licensed under the MIT License. See the <a href="./LICENSE">LICENSE file</a> for more information.
+This project is licensed under the MIT License. See the <a href="./LICENSE.txt">LICENSE file</a> for more information.
